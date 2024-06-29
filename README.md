@@ -6,9 +6,7 @@ A ThreeJS-powered virtual human being that uses a set of neat [Azure APIs](https
 
 ## Run
 ```
-$ yarn install
-$ yarn start
+$ npm Install
+$ npm start
 ```
 
-## Backend
-You'll also need https://github.com/vaibhav1663/talking_avatar_backend for the text to speech conversion.
